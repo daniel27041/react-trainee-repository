@@ -1,0 +1,19 @@
+.test-example-component {
+    display: block;
+    border-color: black;
+    border-width: 1px;
+    padding: 30px;
+
+
+    .test-example-button{
+        background-color: blueviolet;
+        color: white;
+        cursor: pointer;
+    }
+
+    .test-example-value{
+        margin-top: 20px;
+        color: darkred;
+    }
+
+}
